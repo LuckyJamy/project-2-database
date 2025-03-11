@@ -1,0 +1,44 @@
+.button-container{
+    display: flex;
+    border: white;
+    padding-left: 5%;
+}
+
+.toggle-button {
+    margin-top: 30px;
+    float: left;
+    width: 230px;
+    height: 40px;
+    background-color: grey;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px; /* Centers text vertically */
+}
+
+.toggle-button p {
+    margin: 0;
+    line-height: 40px; /* Ensures text aligns in center */
+}
+
+.graph{
+    margin-top: -110px;
+    margin-left: 60px;
+    width: 655px;
+    height: 500px;
+    background-color: grey;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.map-button{
+    float: left;
+    margin-left: 45px;
+    padding: 60px 140px;
+    background-color: grey;
+    margin-top: 30px;
+}
+
+.demographic-table{
+    float: left;
+}
