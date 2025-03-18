@@ -5,7 +5,7 @@ h1 {
 }
 
 .button1 {
-    background-color: blue;
+    background-color: rgb(57,135,189);
     border: none;
     color: white;
     text-align: center;
@@ -18,15 +18,20 @@ h1 {
     margin: 10px 10px;
 }
 
+a {
+    color: white;
+}
+
+
 .button1:hover {
-    background-color: blueviolet;
+    background-color: rgb(164, 108, 216);
     transition-duration: 0.3s;
 }
 
 article {
     float: left;
     padding: 20px;
-    background-color: #acacac;
+    background-color: rgb(57,135,189);
     border-radius: 3px;
     margin: 10px 10px;
     width: 956px;
